@@ -7,7 +7,7 @@ Parameter list is described as following:
     @param1: input path (the file containing the features)
     @param2: the name of the feature
     @param3: the length of the feature vector
-    @param2: output path
+    @param4: output path
 
 '''
 import sys
