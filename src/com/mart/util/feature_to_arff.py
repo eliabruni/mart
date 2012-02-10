@@ -1,6 +1,6 @@
 '''
 This program is to translate a word co-occurrence matrix of the type
-<word feat1, feat2, ..., featN>
+<image feat1, feat2, ..., featN>
 to ARFF input format for Weka analysis.
 @usage:
 Parameter list is described as following:
